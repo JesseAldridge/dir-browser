@@ -1,0 +1,15 @@
+html {
+  font-family: Helvetica;
+}
+
+.node {
+  margin: 10px;
+}
+
+.filename {
+  font-weight: bold;
+}
+
+.excerpt-line {
+  margin: 0;
+}
